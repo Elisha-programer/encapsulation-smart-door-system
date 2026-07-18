@@ -16,6 +16,3 @@ This project demonstrates the concept of encapsulation in Python by developing a
 - Properties (`@property`)
 - Property Setter
 - Input Validation
-
-## Author
-Apple Einstein
